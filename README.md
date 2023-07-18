@@ -1,2 +1,2 @@
-# GUI_python
+# GUI and desktop (pygame) python
 PyQT, Tkinter
